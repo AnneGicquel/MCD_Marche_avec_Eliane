@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T12:47:15.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="S2c1r2yjUnzaVkAS73fI" version="24.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-10T13:25:25.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WkAdQBXFDJn6KrFI16Hx" version="24.2.2" type="github" pages="4">
   <diagram name="MCD_MaE" id="Tlwci1VjEVwz0lgoh0XL">
     <mxGraphModel dx="2078" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -1268,7 +1268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MPD_MaE" id="_3ZQ90SiCpuKkSSyp2ie">
-    <mxGraphModel dx="2374" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2770" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="j_k4Va99CArjol-Q95kt-0" />
         <mxCell id="j_k4Va99CArjol-Q95kt-1" parent="j_k4Va99CArjol-Q95kt-0" />
@@ -1891,6 +1891,134 @@
         </mxCell>
         <mxCell id="1mz0c_zZG4svG2UNGhwp-1" value="&lt;ol style=&quot;border: 0px solid rgb(227, 227, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; list-style: none; margin: 0px; padding: 0px; counter-reset: list-number 0; display: flex; flex-direction: column; color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;border: 0px solid rgb(227, 227, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0px; counter-increment: list-number 1;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(227, 227, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin: 1.25em 0px;&quot;&gt;Date et heure : Le type de données &quot;DATETIME&quot; ou &quot;TIMESTAMP&quot; est utilisé pour stocker à la fois la date et l&#39;heure. Ces deux types sont similaires, mais &quot;DATETIME&quot; stocke les informations de date et d&#39;heure sans tenir compte du fuseau horaire, tandis que &quot;TIMESTAMP&quot; stocke les informations de date et d&#39;heure en tenant compte du fuseau horaire. Par exemple, &quot;2024-04-09 12:00:00&quot;.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="j_k4Va99CArjol-Q95kt-1">
           <mxGeometry x="20" y="650" width="560" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vM-NVEHjU9ezOZN_g1Fw" name="UserCaseDiagram_MaE">
+    <mxGraphModel dx="723" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-3" value="Recevoir un e-mail de bienvenue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-4" value="S’authentifier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-6" value="Consentir aux cookies" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-8" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-13" target="NgkgYGA3h7-gzKLobqOV-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="130" as="sourcePoint" />
+            <mxPoint x="810" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-9" value="Créer son mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-11" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-9" target="NgkgYGA3h7-gzKLobqOV-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="140" as="sourcePoint" />
+            <mxPoint x="500" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-13" value="Réinitialiser son mot de passe en cas d&#39;oubli" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-16" value="Accéder à la homePage" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-17" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-6" target="NgkgYGA3h7-gzKLobqOV-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="580" y="490" as="sourcePoint" />
+            <mxPoint x="740" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-18" value="Accéder au à propos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-19" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-18" target="NgkgYGA3h7-gzKLobqOV-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="767" y="140" as="sourcePoint" />
+            <mxPoint x="680" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-20" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NgkgYGA3h7-gzKLobqOV-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1140" y="110" as="sourcePoint" />
+            <mxPoint x="750" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-21" value="Accéder à notre histoire" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="40" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-22" value="Accéder à notre charte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1171" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-23" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.595;entryY=-0.057;entryDx=0;entryDy=0;exitX=0.021;exitY=0.686;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-22" target="NgkgYGA3h7-gzKLobqOV-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="840" y="220" as="sourcePoint" />
+            <mxPoint x="1000" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-24" value="Accéder aux rencontres" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-25" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=-0.03;exitY=0.466;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-24" target="NgkgYGA3h7-gzKLobqOV-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="340" as="sourcePoint" />
+            <mxPoint x="1060" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-26" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Visualiser les sorties en attente d&#39;accompagnant.e jour par jour&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="310" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-27" value="s&#39;ajouter comme accompagnant.e à une sortie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-28" value="Visualiser ses sorties passés et à venir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-29" value="filtrer les sorties par nom" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-30" value="modifier la date de la sortie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-31" value="supprimer sa présence d&#39;une sortie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-32" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-26" target="NgkgYGA3h7-gzKLobqOV-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1080" y="420" as="sourcePoint" />
+            <mxPoint x="1240" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-33" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-28" target="NgkgYGA3h7-gzKLobqOV-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1080" y="420" as="sourcePoint" />
+            <mxPoint x="1240" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-34" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-27" target="NgkgYGA3h7-gzKLobqOV-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1080" y="420" as="sourcePoint" />
+            <mxPoint x="1240" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-35" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NgkgYGA3h7-gzKLobqOV-29" target="NgkgYGA3h7-gzKLobqOV-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1080" y="420" as="sourcePoint" />
+            <mxPoint x="1240" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
