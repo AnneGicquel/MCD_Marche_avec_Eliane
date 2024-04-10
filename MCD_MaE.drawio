@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T15:14:11.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rJcja67xSGdthrrGdp0y" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T15:20:20.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gVeXK5QvPLTlOrNR5ro0" version="24.2.2" type="github" pages="4">
   <diagram name="MCD_MaE" id="Tlwci1VjEVwz0lgoh0XL">
     <mxGraphModel dx="755" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -1870,7 +1870,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vM-NVEHjU9ezOZN_g1Fw" name="UserCaseDiagram_MaE">
-    <mxGraphModel dx="1847" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="923" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1973,7 +1973,7 @@
             <mxPoint x="930" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NgkgYGA3h7-gzKLobqOV-48" value="MaE" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Marche avec Eliane&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="70" width="750" height="1160" as="geometry" />
         </mxCell>
         <mxCell id="NgkgYGA3h7-gzKLobqOV-63" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
