@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T14:22:32.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="bwmc5ymPjscAizSyBmv6" version="24.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-19T15:00:52.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tHa-L93Ak1Z8-_KQqbKN" version="24.5.4" type="github" pages="4">
   <diagram name="MCD_MaE" id="Tlwci1VjEVwz0lgoh0XL">
     <mxGraphModel dx="352" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -1903,7 +1903,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vM-NVEHjU9ezOZN_g1Fw" name="UserCaseDiagram_MaE">
-    <mxGraphModel dx="1106" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1913,7 +1913,7 @@
         <mxCell id="NgkgYGA3h7-gzKLobqOV-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="18" y="559" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NgkgYGA3h7-gzKLobqOV-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-2" value="&lt;span&gt;Admin&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="15" y="960" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NgkgYGA3h7-gzKLobqOV-4" value="S’authentifier" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2023,20 +2023,20 @@
             <mxPoint x="10" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NgkgYGA3h7-gzKLobqOV-68" value="Accès à l&#39;interface de gestion des besoins" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-68" value="Accès à l&#39;interface de gestion des besoins" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFBFC3;" parent="1" vertex="1">
           <mxGeometry x="258" y="839" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NgkgYGA3h7-gzKLobqOV-69" value="Accès au formulaire de de gestion de la bdd" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="373" y="929" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NgkgYGA3h7-gzKLobqOV-72" value="Ajouter les souhaits de sorties des suivi.e.s" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-72" value="&lt;b&gt;Voir&lt;/b&gt;&amp;nbsp;les besoins de sorties des suivi.e.s" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="208" y="719" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NgkgYGA3h7-gzKLobqOV-73" value="Modifier les souhaits de sorties des suivi.e.s" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="338" y="619" width="140" height="70" as="geometry" />
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-73" value="&lt;b&gt;Ajouter&lt;/b&gt; les nouveaux besoins de sorties des suivi.e.s" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="344" y="609" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NgkgYGA3h7-gzKLobqOV-74" value="Supprimer les souhaits de sorties des suivi.e.s" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="513" y="739" width="140" height="70" as="geometry" />
+        <mxCell id="NgkgYGA3h7-gzKLobqOV-74" value="&lt;b&gt;Supprimer&lt;/b&gt; les besoins de sorties des suivi.e.s" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="488" y="769" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NgkgYGA3h7-gzKLobqOV-75" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NgkgYGA3h7-gzKLobqOV-72" target="NgkgYGA3h7-gzKLobqOV-68" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -2085,6 +2085,15 @@
         </mxCell>
         <mxCell id="WcD53Phe0AYr8ZW8IdFv-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Marche avec Eliane&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="248" y="25" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWPra6snhNpdF7YzPWhN-4" value="&lt;b&gt;Modifier&lt;/b&gt;&amp;nbsp;les besoins de sorties des suivi.e.s" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="657" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OWPra6snhNpdF7YzPWhN-6" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.933;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NgkgYGA3h7-gzKLobqOV-68">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="524" y="717" as="sourcePoint" />
+            <mxPoint x="596" y="835" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
